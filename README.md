@@ -1,10 +1,4 @@
-### Oi! eu sou o Fernando.
-
-
-
-- 🔭 Estou a procura de uma oportunidade
-- 🌱 Estudando HTML5, CSS3 e JavaScript
-
+### Oi! eu sou o Fernando!.
 
 <div align="left">
   <a href="https://github.com/DevFernandoNunes">
