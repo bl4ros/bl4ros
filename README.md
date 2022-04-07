@@ -1,4 +1,4 @@
-### Oi! eu sou o Fernando!.
+### Oi! eu sou o Fernando!
 
 <div align="left">
   <a href="https://github.com/DevFernandoNunes">
